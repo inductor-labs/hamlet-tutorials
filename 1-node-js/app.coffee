@@ -1,4 +1,4 @@
-mainTemplate = require "./templates/main"
+mainTemplate = require "./main"
 
 data =
   title: "Hello World"
