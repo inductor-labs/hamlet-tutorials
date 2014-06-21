@@ -1,0 +1,20 @@
+{
+  "name": "hamlet-runtime",
+  "scripts": [
+    "hamlet-runtime.js"
+  ],
+  "main": "hamlet-runtime.js",
+  "homepage": "https://github.com/dr-coffee-labs/hamlet-runtime",
+  "authors": [
+    "Daniel X Moore <yahivin@gmail.com>"
+  ],
+  "description": "Hamlet templating runtime",
+  "keywords": [
+    "templates"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "dr-coffee-labs/hamlet-runtime": "v0.6.0-pre.0"
+  },
+  "version": "0.6.0-pre.6"
+}
