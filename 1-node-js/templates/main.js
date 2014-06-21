@@ -1,5 +1,4 @@
-module.exports = 
-(function(data) {
+module.exports = function(data) {
   return (function() {
     var __runtime;
     __runtime = require("hamlet-runtime")(this);
@@ -9,4 +8,4 @@ module.exports =
     __runtime.pop();
     return __runtime.pop();
   }).call(data);
-});
+};

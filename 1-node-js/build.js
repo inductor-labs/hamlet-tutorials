@@ -432,8 +432,7 @@ process.binding = function (name) {
 
 });
 
-require.define("/templates/main.js",function(require,module,exports,__dirname,__filename,process,global){module.exports = 
-(function(data) {
+require.define("/templates/main.js",function(require,module,exports,__dirname,__filename,process,global){module.exports = function(data) {
   return (function() {
     var __runtime;
     __runtime = require("hamlet-runtime")(this);
@@ -443,7 +442,7 @@ require.define("/templates/main.js",function(require,module,exports,__dirname,__
     __runtime.pop();
     return __runtime.pop();
   }).call(data);
-});
+};
 
 });
 

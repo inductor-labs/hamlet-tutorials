@@ -1,7 +1,7 @@
+var mainTemplate = JST.main;
+
 var data = {
   title: "Hello World"
 };
 
-var mainTemplate = JST.main(data);
-
-document.body.appendChild(mainTemplate);
+document.body.appendChild(mainTemplate(data));
