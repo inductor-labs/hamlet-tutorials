@@ -13,15 +13,15 @@
     "templates"
   ],
   "license": "MIT",
-  "version": "0.6.0-pre.6",
-  "_release": "0.6.0-pre.6",
+  "version": "0.6.0-pre.10",
+  "_release": "0.6.0-pre.10",
   "_resolution": {
     "type": "version",
-    "tag": "v0.6.0-pre.6",
-    "commit": "e2d01d5029c7adc9505b02b9fd04901a8b67e387"
+    "tag": "v0.6.0-pre.10",
+    "commit": "670cbb3f24d43932f884f632bae57b78b82f6b7d"
   },
   "_source": "git://github.com/dr-coffee-labs/hamlet-runtime.git",
-  "_target": "~0.6.0-pre.6",
+  "_target": "~0.6.0-pre.10",
   "_originalSource": "hamlet-runtime",
   "_direct": true
 }
