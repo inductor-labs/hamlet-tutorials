@@ -1,0 +1,6 @@
+.container
+  %ul.nav.nav-tabs(role="tablist")
+    - each @tabs, ->
+      %li(@click @class)
+        %a(href="#")= @name
+  .content.well= @content

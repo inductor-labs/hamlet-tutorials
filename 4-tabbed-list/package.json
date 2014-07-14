@@ -1,0 +1,13 @@
+{
+  "browserify": {
+    "transform": [
+      "coffeeify"
+    ]
+  },
+  "devDependencies": {
+    "browserify": "^4.1.11",
+    "coffeeify": "^0.6.0",
+    "hamlet-runtime": "^0.6.0-pre.21",
+    "o_0": "^0.3.1"
+  }
+}
